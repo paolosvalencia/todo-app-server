@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "completed": false,
+      "id": 1,
+      "title": "Create JS Node"
+    },
+    {
+      "id": 2,
+      "title": "Populate List of Tasks",
+      "completed": false
+    },
+    {
+      "title": "Read TypeScript Readings",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
